@@ -1,10 +1,10 @@
 import tensorflow as tf
-from tensorflow.keras.preprocessing import image
+from tensorflow.keras.utils import image
 import numpy as np
 import cv2
 
 # =========================
-# LOAD MODEL
+# LOAD MODELDetection-of-Fruit-Ripeness-Using-Image-Processing/predict.py
 # =========================
 model = tf.keras.models.load_model(
     "models/fruit_ripeness_model.h5"
