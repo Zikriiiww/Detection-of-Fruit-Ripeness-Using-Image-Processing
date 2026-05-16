@@ -6,7 +6,9 @@ from tensorflow.keras.layers import Dense, Flatten, Dropout
 from tensorflow.keras.optimizers import Adam
 import matplotlib.pyplot as plt
 import os
+
 from sklearn.metrics import classification_report
+
 
 # =========================
 # PATH DATASET
@@ -105,4 +107,6 @@ plt.xlabel('Epoch')
 
 plt.legend(['Train', 'Validation'])
 
+
 plt.show()
+

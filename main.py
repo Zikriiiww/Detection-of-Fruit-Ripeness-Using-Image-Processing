@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import cv2
+=======
+import cv2 
+>>>>>>> b60f3586cd72b49ef19309d7e2b598111e160959
 import numpy as np
 import os
 
