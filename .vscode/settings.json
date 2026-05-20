@@ -1,0 +1,22 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "Detection-of-Fruit-Ripeness-Using-Image-Processing-main\\dataset\\train\\matang\\",
+            "isFolderOnly": true,
+            "color": "foldercolorizer.color_ff0000",
+            "badge": "❤️"
+        },
+        {
+            "folderPath": "Detection-of-Fruit-Ripeness-Using-Image-Processing-main\\dataset\\train\\mentah\\",
+            "badge": "🤍"
+        },
+        {
+            "folderPath": "Detection-of-Fruit-Ripeness-Using-Image-Processing-main\\dataset\\valid\\matang\\",
+            "badge": "❤️"
+        },
+        {
+            "folderPath": "Detection-of-Fruit-Ripeness-Using-Image-Processing-main\\dataset\\valid\\mentah\\",
+            "badge": "🤍"
+        }
+    ]
+}
